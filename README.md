@@ -1,5 +1,5 @@
 # Semantic Image Search
-A semantic image search engine that search images from image or text.
+A semantic image search engine that search images using image or text.
 ## Setup
 Clone the repository locally and create a virtual environment. Check the `requirements.txt` for dependencies.
 ```
